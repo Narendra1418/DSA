@@ -1,13 +1,10 @@
 package com.naruto.dsa.Easy;
 
 public class Palindrome_No {
-
     public boolean isPalindrome(int x) {
-
         if (x < 0) {
             return false;
         }
-
         int n = x;
         int revNum = 0;
 
