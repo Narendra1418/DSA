@@ -21,7 +21,7 @@ public class Palindrome_No {
         }
     }
 
-    public static void main(String[] args) {
+     static void main(String[] args) {
         Palindrome_No p = new Palindrome_No();
         System.out.println(p.isPalindrome(121));
     }
