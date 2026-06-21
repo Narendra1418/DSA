@@ -19,8 +19,8 @@ public class _27_RemoveElements {
     public static void main(String[] args) {
         _27_RemoveElements obj = new _27_RemoveElements();
 
-        int[] nums = {3, 2, 2, 3};
-        int val = 3;
+        int[] nums = {3, 2, 2, 3,7,7};
+        int val = 7;
 
         int k = obj.removeElement(nums, val);
 
