@@ -23,7 +23,7 @@ public class _35_SearchinsertPosition {
         _35_SearchinsertPosition obj = new _35_SearchinsertPosition();
             int result = obj.searchInsert(
                     new int[]{1,2,3,4,5,6,7,8,9,10},
-                    7
+                    9
             );
 
             System.out.println(result);
